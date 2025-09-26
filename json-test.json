@@ -1,0 +1,11 @@
+// post 
+
+{
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "description": "A humorous science fiction novel.",
+  "published_year": 1979
+}
+
+
+// delete, get and update by mongo object-id
