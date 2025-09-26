@@ -1,0 +1,161 @@
+ (venv) ❯❯ fastapi-mongodb-starter git:(main) 08:06 npx @modelcontextprotocol/inspector
+Need to install the following packages:
+@modelcontextprotocol/inspector@0.16.8
+Ok to proceed? (y) y
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@modelcontextprotocol/inspector@0.16.8',
+npm WARN EBADENGINE   required: { node: '>=22.7.5' },                                               
+npm WARN EBADENGINE   current: { node: 'v20.11.0', npm: '10.2.4' }
+npm WARN EBADENGINE }
+npm WARN deprecated node-domexception@1.0.0: Use your platform's native DOMException instead        
+Starting MCP inspector...
+⚙️ Proxy server listening on localhost:6277
+🔑 Session token: 4c9c1e87b3008f2f64f06ff9c4adb4607eb83784008c1900fbc7e34a052ddf87
+   Use this token to authenticate requests or set DANGEROUSLY_OMIT_AUTH=true to disable auth        
+
+🚀 MCP Inspector is up and running at:
+   http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=4c9c1e87b3008f2f64f06ff9c4adb4607eb83784008c1900fbc7e34a052ddf87
+
+🌐 Opening browser...
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:8000/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 5a29960a-1a2e-4055-a264-6c1d00dd1235
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:8000/mcp","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 5b6b39b2-3d5b-4028-9749-3d73eea46d9f
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:8000/mcp","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 53333f50-6f47-4674-8dfd-3a69eec5c39c
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:8000/mcp","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 17bd8141-829c-403f-ae67-460918e353b5
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:8000/mcp","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: a3f2a1a9-8069-4ef1-be91-b3fd5a26dedb
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:8000/mcp","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: da4c3a0e-d7fc-4e60-8340-79c165bf1e1d
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: d6014c1d-ea76-4069-aba6-a6616fc25e15
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 77db23a1-fb7b-4b2c-a679-b32664df74a9
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 89fecc7f-1fec-486d-8ab4-21508640ae99
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 529ed1f2-ec4e-4257-9af9-1b0525742fb8
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 7665e35b-13c3-4706-a34a-3d07bab5d1ec
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 85ae1274-d298-42ae-add6-8e13d4ae0c60
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 7ab34b7b-a281-4170-89e8-ed55e120b7a5
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: b8294ee5-5270-48a3-b6e8-6ace3405f80c
+Error accessing endpoint (HTTP 404)
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: f28577fd-8357-49e2-88ad-cc82be3c4f8d
+Error accessing endpoint (HTTP 404)
+Terminate batch job (Y/N)? Y
+ (venv) ❯❯ fastapi-mongodb-starter git:(main)  09:20 npx @modelcontextprotocol/inspector
+Starting MCP inspector...
+⚙️ Proxy server listening on localhost:6277
+🔑 Session token: 06c719c87aeed5b10da4acb06c4b6ce5f1c456a7c95653c84f21ad31302ce922
+   Use this token to authenticate requests or set DANGEROUSLY_OMIT_AUTH=true to disable auth
+
+🚀 MCP Inspector is up and running at:
+   http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=06c719c87aeed5b10da4acb06c4b6ce5f1c456a7c95653c84f21ad31302ce922
+
+
+🚀 MCP Inspector is up and running at:
+   http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=06c719c87aeed5b10da4acb06c4b6ce5f1c456a7c95653c84f21ad31302ce922
+
+🌐 Opening browser...
+🚀 MCP Inspector is up and running at:
+   http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=06c719c87aeed5b10da4acb06c4b6ce5f1c456a7c95653c84f21ad31302ce922
+
+🌐 Opening browser...
+   http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=06c719c87aeed5b10da4acb06c4b6ce5f1c456a7c95653c84f21ad31302ce922
+
+🌐 Opening browser...
+
+🌐 Opening browser...
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+🌐 Opening browser...
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: ab82ac75-a3ef-4684-971a-9b59585da239
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: ab82ac75-a3ef-4684-971a-9b59585da239
+Proxy  <-> Server sessionId: 54c8fc96e80747ea83cc8ed89acd533d
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: ab82ac75-a3ef-4684-971a-9b59585da239
+Proxy  <-> Server sessionId: 54c8fc96e80747ea83cc8ed89acd533d
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Client <-> Proxy  sessionId: ab82ac75-a3ef-4684-971a-9b59585da239
+Proxy  <-> Server sessionId: 54c8fc96e80747ea83cc8ed89acd533d
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Proxy  <-> Server sessionId: 54c8fc96e80747ea83cc8ed89acd533d
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received GET message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received GET message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+Received POST message for sessionId ab82ac75-a3ef-4684-971a-9b59585da239
+New StreamableHttp connection request
+Query parameters: {"url":"http://127.0.0.1:8000/mcp/","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 681f4208-2e87-4411-ae26-eea52a3e3f95
+Proxy  <-> Server sessionId: 50c8444e14a948468855bec2690ab8be
+Received POST message for sessionId 681f4208-2e87-4411-ae26-eea52a3e3f95
+Received GET message for sessionId 681f4208-2e87-4411-ae26-eea52a3e3f95
+Received POST message for sessionId 681f4208-2e87-4411-ae26-eea52a3e3f95
+Received POST message for sessionId 681f4208-2e87-4411-ae26-eea52a3e3f95
+
