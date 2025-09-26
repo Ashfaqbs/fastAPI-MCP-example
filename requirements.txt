@@ -1,0 +1,7 @@
+fastapi==0.117.1          # FastAPI framework (high-performance API toolkit)
+uvicorn[standard]==0.36.0 # Uvicorn ASGI server for running FastAPI apps
+pymongo==4.15.1           # PyMongo - official MongoDB Python driver
+fastapi-mcp==0.4.0
+# pip install -r requirements.txt
+
+fastmcp==2.11.0 # for claude proxy
